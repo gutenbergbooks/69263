@@ -2537,7 +2537,7 @@ a mention of it in the paper, but it has escaped me.”
 “No. I arrived on the train that gets in at the Pennsylvania Station at
 nine in the evening.”
 
-“And now, after being parted from Edythe so long a time, this terrible
+“And now, after being parted front Edythe so long a time, this terrible
 thing has happened to you. It is terrible, Mr. Lynne.”
 
 “Ah, sir, it is more than that; it is unbearable. I am compelling myself
@@ -4494,7 +4494,7 @@ Ergo, you did not escape the paralyzing effect of them, Oaks.”
 “What the dev----”
 
 “The proof of it lies in the fact that you consented, at her request, to
-come away from her cell in the Tombs and leave your stenographer there
+come away from her cell in the tombs and leave your stenographer there
 alone with her.”
 
 “What possible harm could befall Miss McQueen under such circumstances,
